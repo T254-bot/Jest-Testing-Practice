@@ -1,4 +1,3 @@
-
 const addition = require("../calc");
 
 describe("Calculator", () => {
@@ -19,4 +18,4 @@ describe("Calculator", () => {
     describe("Division function", () => {
         
     });
-})
+}) 
